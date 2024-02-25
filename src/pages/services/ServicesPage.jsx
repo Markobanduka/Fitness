@@ -18,7 +18,7 @@ export const ServicesPage = () => {
         </header>
       </div>
       <div>
-        <section id="services" className="block services-block">
+        <section id="services" className="block services-block mt-5">
           <Container fluid>
             <div className="title-holder">
               <h2>Services</h2>

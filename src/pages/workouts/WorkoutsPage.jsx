@@ -11,12 +11,12 @@ import Footer from "../../components/Footer";
 
 export const WorkoutsPage = () => {
   return (
-    <div className="App">
-      <section id="works" className="block works-block">
-        <header id="header" className="header-about">
-          <Header />
-        </header>
-        <Container fluid className="pt-5 mt-5">
+    <div>
+      <header id="header" className="header-about">
+        <Header />
+      </header>
+      <section id="works" className="block works-block mt-5">
+        <Container fluid>
           <div className="title-holder">
             <h2>Our Workouts</h2>
             <div className="subtitle">Choose Your Workout Type</div>

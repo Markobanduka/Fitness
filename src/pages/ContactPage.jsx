@@ -40,7 +40,7 @@ const ContactPage = () => {
           <Header />
         </header>
       </div>
-      <section id="contact" className="block contact-block">
+      <section id="contact" className="block contact-block mt-5">
         <Container fluid>
           <div className="title-holder">
             <h2>Contact Us</h2>
