@@ -1,0 +1,24 @@
+@media only screen and (max-width: 767px) {
+  .hero-block .carousel-caption {
+    display: block;
+  }
+}
+
+.navbar-about {
+  display: block;
+  position: fixed;
+}
+.div {
+  margin-top: 100px;
+}
+
+.title-holder {
+  margin-bottom: 0;
+}
+.workout-description {
+  margin-bottom: 0;
+}
+
+.work-section {
+  height: 100vh;
+}
