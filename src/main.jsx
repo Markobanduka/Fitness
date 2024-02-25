@@ -14,6 +14,10 @@ const router = createBrowserRouter([
     errorElement: <NotFoundPage />,
   },
   {
+    path: "/Fitness",
+    element: <HomePage />,
+  },
+  {
     path: "/services",
     element: <ServicesPage />,
   },
